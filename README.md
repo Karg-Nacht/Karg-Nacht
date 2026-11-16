@@ -1,3 +1,5 @@
+![KARG / FIRTAN](./banner.webp)
+
 # KARG / FIRTAN
 
 **Independent Developer**

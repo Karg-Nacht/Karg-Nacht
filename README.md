@@ -1,16 +1,40 @@
-## Hi there 👋
+# KARG / FIRTAN
 
-<!--
-**KargFirtan/KargFirtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Independent Developer**
 
-Here are some ideas to get you started:
+*Building things I want to exist.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```yaml
+name: Karg
+alias: Firtan
+location: Russia
+
+focus:
+  - AI Applications
+  - Software Development
+  - Game Development
+  - Open Source
+
+languages:
+  - Python
+  - TypeScript
+  - JavaScript
+  - GDScript
+
+projects:
+  Larsta: Self-hosted AI character chat platform
+  scheme-size: Mindustry mod
+  scheme-size-plus: Extended Mindustry tools
+  scheme-size-god: Advanced Mindustry tools
+
+interests:
+  - Artificial Intelligence
+  - Programming
+  - Black Metal
+```
+
+---
+
+[Telegram](https://t.me/KargFirtan) · [GitHub](https://github.com/KargFirtan)

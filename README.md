@@ -1,7 +1,5 @@
 ![KARG / FIRTAN](./KargFirtanBanner.webp)
 
-# KARG / FIRTAN
-
 **Independent Developer**
 
 *Building things I want to exist.*

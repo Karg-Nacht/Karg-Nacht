@@ -1,4 +1,4 @@
-![KARG / FIRTAN](./banner.webp)
+![KARG / FIRTAN](./KargFirtanBanner.webp)
 
 # KARG / FIRTAN
 

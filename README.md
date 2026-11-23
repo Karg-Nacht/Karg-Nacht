@@ -13,7 +13,6 @@
 | [Rote Coding Fraktion](https://github.com/Karg-Nacht/Rote-Coding-Fraktion) | A Windows desktop workspace for AI-assisted coding with OpenCode. |
 | [Rote Translate Fraktion](https://github.com/Karg-Nacht/Rote-Translate-Fraktion) | A Windows tray translator with a floating crystal, Markdown output, and support for online services and local models. |
 | [Larsta](https://github.com/Karg-Nacht/Larsta) | Self-hosted AI character chat for desktop and mobile, with English and Russian interfaces. |
-| [QuickDict](https://github.com/Karg-Nacht/QuickDict) | A lightweight Win32 translator opened with a keyboard shortcut. |
 
 ## Mindustry
 

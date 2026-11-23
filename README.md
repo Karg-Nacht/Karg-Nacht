@@ -1,40 +1,22 @@
-![KARG / FIRTAN](./KargFirtanBanner.webp)
+![KΛRG NΛCHT — Fraktions](./profile-banner.png)
 
-**Independent Developer**
+# KargNacht
+
+**Independent developer** building desktop apps, AI tools, and game mods.
 
 *Building things I want to exist.*
 
----
+## Projects
 
-```yaml
-name: Karg
-alias: Firtan
-location: Russia
+| Project | What it does |
+| --- | --- |
+| [Rote Coding Fraktion](https://github.com/Karg-Nacht/Rote-Coding-Fraktion) | A Windows desktop workspace for AI-assisted coding with OpenCode. |
+| [Rote Translate Fraktion](https://github.com/Karg-Nacht/Rote-Translate-Fraktion) | A Windows tray translator with a floating crystal, Markdown output, and support for online services and local models. |
+| [Larsta](https://github.com/Karg-Nacht/Larsta) | Self-hosted AI character chat for desktop and mobile, with English and Russian interfaces. |
+| [QuickDict](https://github.com/Karg-Nacht/QuickDict) | A lightweight Win32 translator opened with a keyboard shortcut. |
 
-focus:
-  - AI Applications
-  - Software Development
-  - Game Development
-  - Open Source
+## Mindustry
 
-languages:
-  - Python
-  - TypeScript
-  - JavaScript
-  - GDScript
+[Size Plus](https://github.com/Karg-Nacht/scheme-size-plus) adds schematic and building tools, overlays, and enemy routes. [Size God](https://github.com/Karg-Nacht/scheme-size-god) extends those tools with host controls, arena editing, and events. Both use the [shared Scheme Size source](https://github.com/Karg-Nacht/scheme-size).
 
-projects:
-  Larsta: Self-hosted AI character chat platform
-  scheme-size: Mindustry mod
-  scheme-size-plus: Extended Mindustry tools
-  scheme-size-god: Advanced Mindustry tools
-
-interests:
-  - Artificial Intelligence
-  - Programming
-  - Black Metal
-```
-
----
-
-[Telegram](https://t.me/KargFirtan) · [GitHub](https://github.com/KargFirtan)
+[Telegram](https://t.me/KargFirtan)
